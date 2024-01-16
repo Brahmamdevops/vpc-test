@@ -19,7 +19,7 @@ variable "project_name" {
 }
 
 variable "environment" {
-  default = "Dev"
+  default = "dev"
 }
 
 variable "public_subnets_cidr" {
